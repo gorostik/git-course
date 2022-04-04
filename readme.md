@@ -1,3 +1,9 @@
-# Git and Github Course
+# Мое портфолио 
 
-Crash course for Git
+Ссылка на портфолио https://gorostik.github.io/git-course/
+
+## Содержит:
+
+* 1 : сверстанный сайт
+* 0 : Js приложения
+
